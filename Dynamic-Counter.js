@@ -1,4 +1,3 @@
-<script>
     jQuery(function($) {
         var min = 10;
         var max = 300;
@@ -30,4 +29,3 @@
             jQuery("#dynamic_counter").html(r);
         }, 2000);
     });
-</script>
